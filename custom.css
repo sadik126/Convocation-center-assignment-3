@@ -7,12 +7,23 @@
 
 #firstimage h1{
     font-size: 48px;
-    color: black;
+    color: #fff8f8 ;
+   
     font-family: 'Poppins', sans-serif;
 }
 
 #firstimage p{
-    color: black;
+    
     font-family: 'Poppins', sans-serif;
 
 }
+
+
+.card h1{
+  color: #231D4F;
+}
+
+.card p{
+    color: #848199;
+}
+
