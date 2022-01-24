@@ -18,6 +18,10 @@
 
 }
 
+#firstimage button a{
+    text-decoration: none;
+}
+
 
 .card h2{
   color: #231D4F;
