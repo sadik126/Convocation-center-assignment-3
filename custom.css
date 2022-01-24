@@ -1,9 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Concert+One&family=Encode+Sans:wght@500&family=Poppins:wght@400;500&family=Roboto:wght@500&family=Ubuntu:wght@400;500;700&display=swap');
-
+/* navber starts */
 .logo{
     font-family: 'Poppins', sans-serif;
     font-size: 20px;
 }
+
+/* slider starts */
 
 #firstimage h1{
     font-size: 48px;
@@ -22,6 +24,8 @@
     text-decoration: none;
 }
 
+
+/* package starts */
 
 .card h2{
   color: #231D4F;
@@ -57,4 +61,10 @@
     top: -10px;
     right: 10px;
     
+}
+
+/* footer starts */
+
+.appstore{
+    margin-bottom: -2rem;
 }
